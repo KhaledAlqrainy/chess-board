@@ -6,4 +6,4 @@ Each board will have one red and one blue queen at different coordinates. In add
 
 ### Pull Request Link : 
 
-https://github.com/KhaledAlqrainy/chess-board/pull/1
+https://github.com/KhaledAlqrainy/chess-board/pull/2
